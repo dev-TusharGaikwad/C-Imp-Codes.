@@ -49,6 +49,16 @@ void pattern_3(int rows)
 }
 
 //-----Pattern 4------
+
+/*
+
+ * * * * * 
+  * * * * 
+   * * * 
+    * * 
+     * 
+
+*/
 void pattern_4(int rows)
 {
 	int i,j,k;
