@@ -4,6 +4,7 @@
 
 int main()    
 {    
+	// fibinacci series upto 'nth' number
 	int num_1=0,num_2=1,num_3,i,user_input;    
 	printf("Enter the number of elements:");    
 	scanf("%d",&user_input);    
