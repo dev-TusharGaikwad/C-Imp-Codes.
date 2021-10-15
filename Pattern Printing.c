@@ -67,6 +67,21 @@ void pattern_4(int rows)
 }
 
 //-----Pattern 5------
+
+/*
+
+     * 
+    * * 
+   * * * 
+  * * * * 
+ * * * * * 
+  * * * *
+   * * *
+    * *
+     *
+
+*/
+
 void pattern_5(int rows)
 {
 	int i,j,k;
@@ -98,6 +113,15 @@ void pattern_5(int rows)
 }
 
 //-----Pattern 6------
+/*
+
+     * * * * *
+    * * * * *
+   * * * * *
+  * * * * *
+ * * * * *
+
+*/
 void pattern_6(int rows)
 {
 	int i,j,k;
@@ -116,6 +140,16 @@ void pattern_6(int rows)
 }
 
 //-----Pattern 7------
+/*
+
+ * * * * *
+ *       *
+ *       *
+ *       *
+ * * * * *
+
+*/
+
 void pattern_7(int rows)
 {
 	int i,j,k;
@@ -137,6 +171,8 @@ void pattern_7(int rows)
 }
 
 //-----Pattern 8------
+
+
 void pattern_8(int rows)
 {
 	int i,j,k;
