@@ -3,6 +3,15 @@
 #include<stdio.h>
 
 //-----Pattern 1------
+/*
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+
+*/
 void pattern_1(int rows)
 {
 	int i,j;
@@ -17,6 +26,15 @@ void pattern_1(int rows)
 }
 
 //-----Pattern 2------
+/*
+
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+
+*/
 void pattern_2(int rows)
 {
 	int i,j;
@@ -31,6 +49,16 @@ void pattern_2(int rows)
 }
 
 //-----Pattern 3------
+/*
+
+     * 
+    * * 
+   * * * 
+  * * * * 
+ * * * * * 
+
+*/
+
 void pattern_3(int rows)
 {
 	int i,j,k;
