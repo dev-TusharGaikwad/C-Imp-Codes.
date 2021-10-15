@@ -20,7 +20,7 @@ int main()
         reversed_string[j] = user_input[length];
         length--;
     }
-    printf("\nThe reversed string is: %s", reversed_string);
+    printf("\nThe Reversed string is: %s", reversed_string);
     
 	return 0;
 }
