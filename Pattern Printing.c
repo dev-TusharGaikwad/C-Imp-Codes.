@@ -137,6 +137,21 @@ void pattern_7(int rows)
 }
 
 //-----Pattern 8------
+/*
+
+     * 
+    * * 
+   * * * 
+  * * * * 
+ * * * * * 
+ *       *
+ *       *
+ *       *
+ *       *
+ * * * * *
+
+*/
+
 void pattern_8(int rows)
 {
 	int i,j,k;
