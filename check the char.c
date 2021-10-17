@@ -8,8 +8,6 @@ int main()
 
     printf("Enter any character: ");
     scanf("%c", &user_input);
-
-
     if((user_input >= 'a' && user_input <= 'z') || (user_input >= 'A' && user_input <= 'Z'))
     {
         printf("'%c' is alphabet.", user_input);
