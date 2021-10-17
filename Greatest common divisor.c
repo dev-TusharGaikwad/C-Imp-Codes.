@@ -19,6 +19,6 @@ int main()
     
     gcd = denominator;
     printf("GCD of %d and %d = %d\n", input_1, input_2, gcd);
-    
+	
     return 0;
 }
