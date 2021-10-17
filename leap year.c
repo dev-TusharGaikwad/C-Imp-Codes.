@@ -5,7 +5,7 @@
 int main()
 {
 	int user_input;
-	printf("Enter Any Year: ");
+	printf("Enter Any Year : ");
 	scanf("%d",&user_input);
 	
 	if(user_input%4 == 0)
@@ -16,6 +16,5 @@ int main()
 	{
 		printf("\nEntered Year is Not a Leap Year");
 	}
-	
 	return 0;
 }
