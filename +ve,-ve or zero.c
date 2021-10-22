@@ -8,11 +8,11 @@ int main()
 	printf("Enter any Integer Number:");
 	scanf("%d",&user_input);
 	
-	if(user_input>0)
-	{
+	if(user_input>0) // checking if the number is greater than zero
+	{ 
 		printf("\nEntered Number (%d) is Positive",user_input);
 	}
-	else if(user_input<0)
+	else if(user_input<0)  // checking if the number is les than zero
 	{
 		printf("\nEntered Number (%d) is Negative",user_input);
 	}
