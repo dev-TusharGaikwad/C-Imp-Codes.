@@ -19,6 +19,7 @@ int fibonacci(int input1)
 	return fibo;
 }
 
+
 int main()    
 {    
 	// fibinacci series upto 'nth' number
