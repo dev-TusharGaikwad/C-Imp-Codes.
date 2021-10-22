@@ -8,7 +8,7 @@ int main()
 	printf("Enter the number: ");
 	scanf("%d",&user_input);
 	
-	if(user_input%2 == 0)
+	if(user_input%2 == 0) // checking for even number
 	{
 		printf("\nThe Entered Number is Even Number.");
 	}
