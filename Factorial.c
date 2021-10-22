@@ -38,6 +38,7 @@ int main()
 	printf("\nFactorial of %d is %lu", user_input, fact);
    
 	result = factorial(user_input);  // Recursive approach
+	
 	if(user_input == 0)
 	{
 		printf("\nFactorial of '0' is 1");
