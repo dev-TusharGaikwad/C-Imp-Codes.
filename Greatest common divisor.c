@@ -2,6 +2,7 @@
 
 #include<stdio.h>
 
+
 int main()
 {
 	int gcd, remainder, numerator, denominator;
