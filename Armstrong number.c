@@ -1,6 +1,7 @@
 //----------------------------- ARMSTRONG NUMBER -------------------------------------//
 
 
+
 #include<stdio.h>
 #include<math.h>
 
