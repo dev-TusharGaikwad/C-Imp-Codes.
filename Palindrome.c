@@ -2,6 +2,7 @@
 
 #include<stdio.h>
 
+
 int check_palindrome(int num)
 {
 	static int reverse_num=0,remainder; /*static will keep value of reverse_num throughout the program,
