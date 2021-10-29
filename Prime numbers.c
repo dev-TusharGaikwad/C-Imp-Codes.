@@ -16,6 +16,7 @@ int main()
 		}
 	}
 	
+	
 	if(i > user_input/2)
 	{
 		printf("\n%d is a Prime Number\n",user_input);
