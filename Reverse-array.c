@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int main()
+    
 {
     int c, d, n, a[100], b[100];
     printf("\n\nEnter number of elements in array :");
