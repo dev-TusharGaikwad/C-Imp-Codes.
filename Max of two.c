@@ -18,5 +18,6 @@ int main()
 		printf("\n'%.2f' is Greater than '%.2f'",input_2,input_1);
 	}
 	
+	
 	return 0;
 }
