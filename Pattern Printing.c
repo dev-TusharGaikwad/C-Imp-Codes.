@@ -27,6 +27,7 @@ void pattern_1(int rows)
 	}
 }
 
+
 //-----Pattern 2------
 /*
 
