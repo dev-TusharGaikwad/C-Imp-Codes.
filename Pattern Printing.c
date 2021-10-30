@@ -3,6 +3,7 @@
 
 #include<stdio.h>
 
+
 //-----Pattern 1------
 /*
 
