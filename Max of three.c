@@ -13,7 +13,6 @@ int main()
 	printf("Input 3: ");
 	scanf("%f",&input_3);
 	
-	
 	if(input_1>input_2)
 	{
 		if(input_1>input_3)
