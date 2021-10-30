@@ -2,6 +2,8 @@
 
 #include<stdio.h>
 
+
+
 int main()
 {
 	int user_input,reverse=0,digit;
