@@ -4,6 +4,7 @@
 #include<math.h>
 
 
+
 int main()
 {
 	int user_input,digit=0,power=0;
