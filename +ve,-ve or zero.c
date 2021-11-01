@@ -2,8 +2,6 @@
 
 #include<stdio.h>
 
-
-
 int main()
 {
 	int user_input;
