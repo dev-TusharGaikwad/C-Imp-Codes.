@@ -14,6 +14,5 @@ int main()
     	result = user_input*i;
         printf("%d %d's are %d\n",user_input, i, result);
     }
-
     return 0;
 }
