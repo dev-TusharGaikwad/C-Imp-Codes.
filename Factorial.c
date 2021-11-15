@@ -1,7 +1,5 @@
 //----------------------------- FACTORIAL -------------------------------------//
-
 // Factorial using recursion
-
 #include<stdio.h>
 
 unsigned long factorial(int temp)  
@@ -16,6 +14,7 @@ unsigned long factorial(int temp)
     }
 }  
    
+
 int main()  
 {  
 	int user_input, fact = 1;  
