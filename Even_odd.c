@@ -1,8 +1,6 @@
 //---------------------------EVEN OR ODD NUMBERS--------------------------------//
 
 #include<stdio.h>
-
-
 int main()
 {
 	int user_input;
