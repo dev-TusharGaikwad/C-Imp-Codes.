@@ -20,7 +20,8 @@ int main()
 	int user_input, fact = 1;  
 	unsigned long result;  
 	printf("Enter a number: ");  
-	scanf("%d", &user_input);   
+	scanf("%d", &user_input);  
+	printf("Entered number: %d", user_input);  
 	
 	for(int i = 1 ; i <= user_input ; i++) 	  // factorial using for loop
 	{
