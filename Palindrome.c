@@ -16,6 +16,8 @@ int check_palindrome(int num)
 
 	return reverse_num;
 }
+
+//main start
 int main()
 {
 	int user_input, reverse_num;
@@ -28,7 +30,7 @@ int main()
 	printf("\nReversed Number : %d",reverse_num);
 	
 
-	if(user_input==reverse_num)
+	if(user_input==reverse_num)	// check for palindrome number
 	{
 		printf("\n\nEntered Number = Reversed Number \nTherefore, %d is a palindrome number",user_input);
 	}
