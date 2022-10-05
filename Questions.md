@@ -1,3 +1,5 @@
+```python
+
 1.write a program to check wheather the number is strong number or not, also display all the strong numbers between 0 to the given number.
 2.write a program to to check wheather the number is palimdrome or not.
 3.find the prime factors of given number.
@@ -17,3 +19,4 @@
 17.display first five prime factors of given num.
 18.pattern printing program.
 
+```
