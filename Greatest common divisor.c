@@ -3,6 +3,7 @@
 
 #include<stdio.h>
 
+//main start
 int main()
 {
 	int gcd, remainder, numerator, denominator;
