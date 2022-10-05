@@ -1,6 +1,8 @@
 //---------------------------EVEN OR ODD NUMBERS--------------------------------//
 
 #include<stdio.h>
+
+//mqin start
 int main()
 {
 	int user_input;
@@ -39,5 +41,6 @@ int main()
 	}
 	return 0;
 }
+// main end
 
 
