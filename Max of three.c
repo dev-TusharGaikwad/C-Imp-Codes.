@@ -1,6 +1,6 @@
 //------------------------------MAX OF 3 NUMBERS-------------------------------------//
 
-#include<stdio.h>
+#include<stdio.h>		// including header files for standard input and output
 
 int main()
 {
