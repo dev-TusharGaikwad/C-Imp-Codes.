@@ -12,11 +12,11 @@ int main()
 	scanf("%d %d", &numerator, &denominator);
 
 	remainder = numerator % denominator;
-	while (remainder != 0)
+	while (remainder != 0)	//logic to calculate gcd of two numbers
 	{
-	numerator = denominator;
-	denominator = remainder;
-	remainder = numerator % denominator;
+		numerator = denominator;
+		denominator = remainder;
+		remainder = numerator % denominator;
 	}
 
 	gcd = denominator;
