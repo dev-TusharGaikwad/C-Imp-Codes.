@@ -4,6 +4,7 @@
 
 int main()
 {
+	// simple program to demonstrate if else...if and nested if logic 
 	float input_1, input_2, input_3;
 	printf("Enter any Three Numbers:");
 	printf("\nInput 1: ");
