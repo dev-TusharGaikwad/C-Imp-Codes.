@@ -411,6 +411,7 @@ void pattern_8(int rows)
 
 int main()
 {
+	// writting a main function to call every pattern function by using user choice
 	int rows,column,user_input;
 	printf("Enter number of Rows: ");
 	scanf("%d",&user_input);
